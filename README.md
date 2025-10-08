@@ -1,4 +1,4 @@
-# Anomaly-Detection-in-Credit-Card-Transactions
+# Anomaly Detection in Credit Card Transactions
 
 Tech Stack: Python · Pandas · Scikit-learn · Matplotlib · Seaborn
 
